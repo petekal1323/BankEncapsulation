@@ -14,7 +14,7 @@ namespace BankEncapsulation
         
         public void Deposit(double amount)
         { 
-            balance = amount;
+            balance += amount;
         }
         
         // define a method named getBalance that returns the balance field

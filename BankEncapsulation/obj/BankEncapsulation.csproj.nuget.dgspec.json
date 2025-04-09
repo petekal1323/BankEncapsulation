@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pkalinowski\\Desktop\\CS_Repos\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj": {}
+    "C:\\Users\\pkalinowski\\Desktop\\repos\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pkalinowski\\Desktop\\CS_Repos\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj": {
+    "C:\\Users\\pkalinowski\\Desktop\\repos\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pkalinowski\\Desktop\\CS_Repos\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj",
+        "projectUniqueName": "C:\\Users\\pkalinowski\\Desktop\\repos\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj",
         "projectName": "BankEncapsulation",
-        "projectPath": "C:\\Users\\pkalinowski\\Desktop\\CS_Repos\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj",
+        "projectPath": "C:\\Users\\pkalinowski\\Desktop\\repos\\BankEncapsulation\\BankEncapsulation\\BankEncapsulation.csproj",
         "packagesPath": "C:\\Users\\pkalinowski\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pkalinowski\\Desktop\\CS_Repos\\BankEncapsulation\\BankEncapsulation\\obj\\",
+        "outputPath": "C:\\Users\\pkalinowski\\Desktop\\repos\\BankEncapsulation\\BankEncapsulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pkalinowski\\AppData\\Roaming\\NuGet\\NuGet.Config"
